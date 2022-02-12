@@ -1,6 +1,3 @@
-#from gettext import translation
-
-
 print('Input your english sentence.')
 input_msg = input('> ')
 words = input_msg.split(' ')
