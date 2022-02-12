@@ -1,4 +1,4 @@
-from gettext import translation
+#from gettext import translation
 
 
 print('Input your english sentence.')
